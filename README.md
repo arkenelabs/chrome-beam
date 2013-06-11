@@ -9,4 +9,6 @@ If you have a forked version of this repository on Github, it would be nice if y
 
 In case you are interested in contributing to this project, please let us know.
 
+BTW, in case you want to try the plugin, you can access it here: http://beamos.arkene.com
+
 Cheers!
